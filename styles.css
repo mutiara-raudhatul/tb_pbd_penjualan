@@ -1,0 +1,61 @@
+
+
+input[type="text"] {
+    width: 200px;
+}
+
+
+hr {
+display: block;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+margin-left: auto;
+margin-right: auto;
+border-style: inset;
+border-width: 1px;
+}
+
+.form {
+  width: 465px;
+  border: 15px;
+  padding-top: 30px;
+  padding-bottom: 35px;
+  margin: auto;
+  display: block;
+  text-align: left;
+  background-image: url("background.png");
+}
+
+
+#logo{
+    float:left;
+    width:12%;
+}
+
+img {
+  margin-top: 2px;
+  width: 100px;
+  height: 100px;
+}
+
+#judul{
+    margin-top: 3px;
+    float:center;
+    width:88%;
+}
+#info-periode{
+    font-size: 13px;
+    float:right;
+    text-align: right;
+    width:30%;
+}
+#menu {
+    float:left;
+    width:50%;
+}
+
+#form-periode{
+    float:right;
+    text-align: right;
+    width:50%;
+}
